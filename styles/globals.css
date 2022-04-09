@@ -1,0 +1,173 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+body div {
+  font-size: 16px;
+}
+
+.navbar ul.navbar-nav li.nav-item a.nav-link {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  border-top: solid 5px transparent;
+  padding: 15px 15px 20px 15px;
+  color: #555555;
+  line-height: 20px;
+}
+
+.navbar ul.navbar-nav li.nav-item a.nav-link:hover {
+  border-top: solid 5px #17a09c;
+  color: #555555;
+  background-color: #80cbd9;
+}
+
+#heading-breadcrumbs {
+  /* This is set in element style to respect basePath */
+  /* background: url('/img/kehitysto-texture-bw.png') center center repeat; */
+  padding: 2rem 0;
+  margin-bottom: 2rem;
+}
+
+#heading-breadcrumbs h1 {
+  color: #333333;
+  text-transform: uppercase;
+  font-size: 30px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  margin: 0px;
+}
+
+.front-section {
+  padding: 40px;
+}
+.front-section h2 {
+  font-weight: bold;
+}
+.front-section h2, .front-section h3, .front-section h4 {
+  padding-bottom: 15px;
+  max-width: 650px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.front-section a.cta {
+  font-size: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline-block;
+  margin-top: 20px;
+  padding: 15px 40px;
+}
+
+.front-section:nth-child(odd) {
+  color: #fff;
+  text-shadow: 4px 4px 8px #555;
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.front-section:nth-child(even) {
+  color: #555;
+  text-shadow: 4px 4px 8px #aaa;
+  background-repeat: repeat;
+  background-position: center center;
+}
+
+.front-section:nth-child(odd) a.cta {
+  color: #fff !important;
+  border: 4px solid #fff;
+  border-radius: 8px;
+  background: rgba(100,100,100,0.3);
+}
+
+.front-section:nth-child(even) h2 {
+  color: #222;
+  border-bottom: solid 5px #17a09c;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.front-section:nth-child(even) a.cta {
+  color: #fff !important;
+  border: 1px solid #aaa;
+  border-radius: 2px;
+  background: #17a09c;
+  text-shadow: 0px 0px;
+
+}
+
+.testimonial-container {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.testimonial {
+  text-shadow: 0px 0px;
+  font-size: 18px;
+  border-radius: 10px;
+  margin: 10px;
+  padding: 30px;
+  background: white;
+  width: 330px;
+  height: 330px;
+  text-align: left;
+  margin-left: auto;
+  margin-right:auto;
+  margin-bottom: 80px;
+}
+
+.testimonial-text {
+  display: block;
+  height: 230px;
+}
+
+.testimonial img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  display: block;
+  float: right;
+}
+
+
+#footer {
+  margin-top: 50px;
+  background: #555;
+  padding: 50px 0;
+  color: #BBB;
+}
+
+#bottomTextContainer {
+  width: 350px;
+}
+
+#kehitystoLinksContainer {
+  width: 200px;
+}
+
+body a {
+  color: #17a09c;
+  text-decoration: none;
+}
+
+body b {
+  color: #588e27;
+  text-decoration: none;
+}
+
+.bigtext {
+  font-size: 130%;
+}
+
+* {
+  box-sizing: border-box;
+}
