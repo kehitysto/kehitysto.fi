@@ -41,6 +41,7 @@ body div {
   font-weight: 700;
   letter-spacing: 0.08em;
   margin: 0px;
+  text-align: center;
 }
 
 .front-section {
@@ -159,6 +160,18 @@ body a {
   text-decoration: none;
 }
 
+body a:hover {
+  color: #588e27;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+body a.active {
+  color: #588e27;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 body b {
   color: #588e27;
   text-decoration: none;
@@ -170,4 +183,40 @@ body b {
 
 * {
   box-sizing: border-box;
+}
+
+
+.wsapp-container .btn {
+    color: #fff;
+    background-color: #17a09c;
+    border-color: #17a09c;
+}
+
+.wsapp-container .btn:hover {
+  color: #fff;
+  background-color: #588e27;
+  border-color: #588e27;
+}
+
+.wsapp-container .btn .material-icons {
+  margin-left: 10px;
+}
+
+.workshop-progression-container {
+  margin-bottom: 20px;
+}
+
+.workshop-progression-container span {
+  color: #17a09c;
+}
+
+.workshop-progression-container .material-icons {
+  vertical-align: middle;
+  margin-right: 5px;
+}
+
+.workshop-progression-container a.progression_unit {
+  white-space: nowrap;
+  line-height: 2;
+  cursor: pointer;
 }

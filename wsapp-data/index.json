@@ -1,0 +1,12 @@
+[
+  {
+    "path_id": "kes",
+    "name": "Konkretisoi elämäsi suunta",
+    "structure_csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vTviIYLmkx2Y0SaSRR6eHGt1LExKLbOH3v6VuWxlcu351qqfwy6SoZnw5HcRQm7OFrqwgNGXPQCKVmI/pub?output=csv"
+  },
+  {
+    "path_id": "tttvfull",
+    "name": "Tukea tavoitteisiin tapojen voimalla täystyöpaja",
+    "structure_csv_url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vRGsKUc6HreR-KsOjaaNqbte5Dn3s_lFXWdyE7h88TayzLoQTnqFFn8lv4Y7bq2BS2Boa2BvjkGS9xe/pub?output=csv"
+  }
+]

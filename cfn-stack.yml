@@ -1,0 +1,65 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Parameters:
+  WebBucketName:
+    Type: String
+  DomainName:
+    Type: String
+  DomainCertificateARN:
+    Type: String
+
+Resources:
+  WebBucket:
+    Type: AWS::S3::Bucket
+    Properties:
+      BucketName: !Sub "${WebBucketName}"
+      WebsiteConfiguration:
+        ErrorDocument: 404/index.html
+        IndexDocument: index.html
+
+
+  WebBucketPolicy:
+    Type: AWS::S3::BucketPolicy
+    Properties:
+      Bucket: !Ref WebBucket
+      PolicyDocument:
+        Statement:
+          - Effect: Allow
+            Principal: "*"
+            Action: s3:GetObject
+            Resource: !Sub arn:aws:s3:::${WebBucket}/*
+
+  Distribution:
+    Type: AWS::CloudFront::Distribution
+    Properties:
+      DistributionConfig:
+        Aliases:
+          - !Ref DomainName
+        Origins:
+          - DomainName: !Sub ${WebBucket}.s3-website.${AWS::Region}.amazonaws.com
+            Id: S3Origin
+            CustomOriginConfig:
+              OriginProtocolPolicy: http-only
+        Enabled: true
+        DefaultRootObject: index.html
+        DefaultCacheBehavior:
+          AllowedMethods:
+            - DELETE
+            - GET
+            - HEAD
+            - OPTIONS
+            - PATCH
+            - POST
+            - PUT
+          TargetOriginId: S3Origin
+          ViewerProtocolPolicy: redirect-to-https
+          ForwardedValues:
+            QueryString: true
+        PriceClass: PriceClass_100
+        ViewerCertificate:
+          SslSupportMethod: sni-only
+          AcmCertificateArn: !Ref DomainCertificateARN
+
+Outputs:
+  DistributionDomainName:
+    Value: !GetAtt [Distribution, DomainName]

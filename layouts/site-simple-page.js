@@ -1,4 +1,4 @@
-import CommonLayout from './common';
+import CommonLayout from './site-navi';
 
 import getConfig from 'next/config'
 const { publicRuntimeConfig } = getConfig()

@@ -1,0 +1,116 @@
+id,section,step,icon,step_type,step_modifier,duration,bonus_duration,per_participant_duration,video_url_base,video_text,guide_text
+2,Alustus ja toiveet,Yhteinen aloitus,hourglass_empty,waitall,first,,,,,,
+3,Alustus ja toiveet,Tervetuloa työpajaan!,video_library,video,,426,,,video/alustus,"Moi, mä olen [NIMI]. Tervetuloa tähän Kehitystön Konkretisoi elämäsi suunta -työpajaan! 
+
+Ennen kuin mennään itse työpajan sisältöihin, niin ihan lyhyesti vähän infoa Kehitystöstä. Tämä on vapaaehtoisten yhteisö, me ollaan itse saatu jotain hyötyä tämänlaisista ideoista ja halutaan sitten jakaa niitä eteenpäin, kuten nyt tekemällä tämän verkkotyöpajan. Meidän verkkosivuilta voi vapaasti kuka tahansa ladata ja hyödyntää materiaaleja.
+
+Noin yleisesti me käsitellään Kehitystössä kahta isoa kysymystä. Ensimmäinen on, mitä haluan elämältäni? Ja tämä on nimenomaan kunkin oma elämä, kukaan täällä ei sano millaista elämää kenenkään osallistujan tulisi elää, vaan jokainen tulee omien arvojensa kanssa ja pyrkii löytämään oman vastauksensa. 
+
+Ja sitten kun vähän tietää mitä haluaa elämältään, toinen kysymys on että miten saavutan sen, eli mitä ovat sellaisia työkaluja joilla sinne pääsee?
+
+Te olette tosiaan täällä ihan vaan itseänne varten. Jos jokin harjoitus ei tunnu mielekkäältä mutta teille tulisi mieleen jokin tapa muokata sitä millä se tuntuisi mielekkäämmältä, siitä vain. Me ei olla kouluopettajia, kukaan ei tule tarkistamaan miten te olette johonkin tehtävään vastanneet, eikä teidän myöskään tarvitse jakaa sen enempää kuin mikä tuntuu hyvältä.
+
+Täällä on paljon ryhmäkeskusteluita joissa on mahdollisuus jakaa harjoituksista sen verran kuin mikä tuntuu hyvältä, mutta jos on mitään mitä ei halua kertoa muille, niin sen saa ja pitääkin pitää yksityisenä. Täällä voi myös käyttää koodinimeä ""munakoiso"" viitatakseen sellaisiin aiheisiin joista ei halua kertoa enempää, eli voi vaikka sanoa että ""minulla oli aiemmin tällainen munakoiso"", ja silloin kaikki tietävät että tämä on jokin sellainen asia josta ei kuulu kysellä sen enempää. 
+
+Otetaan pienenä lämmittelyharjoituksena jossa mietitään että mikä toivot saavasi irti tästä työpajasta, miksi olet tullut tänne? Samalla voi myös miettiä että mikä saa teidät yleensä hyvälle tuulelle - tai jos olette jo kuulleet tämän kysymyksen aiemmin, niin voi kysyä että mikä sai teidät kaikkein viimeisimpänä hyvälle tuulelle. Tällä voidaan vähän virittäytyä tunnelmaan ennen syvemmälle sukeltamista.
+
+Tämän jälkeen tulee vähän ohjeistusta alustalta joka kertoo miten mennään eteenpäin ja miten paljon on aikaa kuhunkin juttuun. Tavataan sitten kun tehtävää on pohdittu jonkin aikaa.",
+4,Alustus ja toiveet,Esittäytymistehtävä,assignment,assignment,,240,120,,,,"H==== Kirjaa itsellesi ylös seuraavat asiat:
+Mitä toivot saavasi irti tästä työpajasta? Mikä saa sinut yleensä hyvälle tuulelle?"
+5,Alustus ja toiveet,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+6,Alustus ja toiveet,Ohjeita ryhmäkeskusteluun,video_library,video,,75,,,video/ryhmaohje1,"Seuraavaksi on tarkoitus ottaa yhteys muihin, ja sen jälkeen keskustella yhdessä siitä millaisia asioita tulitte kirjoittaneeksi ylös.
+
+Voitte tosiaan itse valita minkä verran jaatte, jos mikään tuntuu liian yksityiseltä niin sen voi jättää mainitsematta tai siihen voi viitata munakoisona.",
+7,Alustus ja toiveet,Avataan yhteys muihin,local_phone,conference,,,,,,,
+8,Alustus ja toiveet,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+9,Alustus ja toiveet,Ryhmäkeskustelu,contact_phone,assignment,together,90,,180,,,"H==== Jakakaa yksi kerrallaan esittäytymistehtävän vastaukset.
+Jokaiselle on varattu noin kolme minuuttia aikaa. Muistutukseksi kysymykset olivat nämä:
+Mitä toivot saavasi irti tästä työpajasta? Mikä saa sinut yleensä hyvälle tuulelle?"
+10,Mistä olet ylpeä?,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+11,Mistä olet ylpeä?,Miksi reflektointi ja suunnittelu?,video_library,video,,165,,,video/mitatavaton,"Tässä työpajassa meidän on tarkoitus tarkastella viimeistä vuottamme ja sitä, mikä siinä oli tunnetasolla merkityksellistä, joko myönteisellä tai kielteisellä tavalla. Sitten kun meillä on hyvä käsitys tästä, niin voimme miettiä sitä millaisen haluamme ensi vuotemme olevan.
+
+Ja miksi tehdä näin? Yksi syy on, että me helposti vain ajaudutaan johonkin suuntaan sen mukaan minne sattuma ja olosuhteet sattuu meitä viemään. Jos me sen sijaan ollaan tietoisia siitä minne halutaan mennä, voidaan me myös tarkoituksellisesti pyrkiä juuri sinne. Ja se minne me tässä pyritään, on tekemään enemmän sellaisia asioita jotka on meille itselle tärkeitä.
+
+Tällä tapaa meillä on mahdollisuus oppia viime vuodesta ja itsestämme. Lisäksi edellisen vuoden juhlistaminen ja tulevan suunnittelu on itsessään hauskaa ja palkitsevaa.
+
+On myös tutkimustuloksia siitä, että hyvin asetetut tavoitteet lisää onnistumista melkein minkälaisissa asioissa tahansa. Joitakin tutkittuja tavoitteita on sellaiset kuin syöminen, säästäminen, opiskelu, kuntoilu, myynti, ja työn laatu.
+
+Jos sitten mennään meidän ensimmäiseen harjoitukseen. Tässä tehtävänä on miettiä viimeisen vuoden ajalta sellaisia asioita, joista te olette ylpeitä. 
+
+Monet ihmiset saattaa kokea vähän vaikeaksi kehua itseään tai sanoa olevansa jostain ylpeä, joten jos on tällaista ongelmaa, niin voi myös ajatella sellaisia asioita joista _voisi_ olla ylpeä, tai joita arvostaisi tai kunnioittaisi jos joku muu ihminen olisi tehnyt ne samat jutut.
+
+Näitä kannattaa myös ajatella siten, että ylpeydenaiheet on suhteessa siihen että mikä on ollut teille itsellenne vaikeaa. Eli jos joku on vaikka ollut koko vuoden masentunut niin että tiskien tiskaaminenkin on tuntunut tosi vaikealta, niin sitten jos on silti saanut ne tiskin tiskattua, niin se on asia josta voi täysin perustellusti olla ylpeä.",
+12,Mistä olet ylpeä?,Mistä olet ylpeä?,assignment,assignment,,240,120,,,,"H==== Mistä viimeisen vuoden aikana (12 kk) tapahtuneista asioista olet ylpeä?
+Kirjoita ylös mahdollisimman paljon asioita viimeisen vuoden ajalta, joista olet ylpeä tai joista ainakin voisit olla ylpeä. 
+Voivat olla ”pieniäkin” asioita! Pelkkä tiskien peseminenkin voi olla jollekin merkittävä asia, jos sitä on yleensä vaikeuksia saada tehtyä.
+"
+13,Mistä olet ylpeä?,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+14,Mistä olet ylpeä?,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje2,"Seuraavaksi on tarkoitus ottaa yhteys muihin, ja sen jälkeen keskustella yhdessä siitä millaisia asioita tulitte kirjoittaneeksi ylös.
+
+Voitte tosiaan itse valita minkä verran jaatte, jos mikään tuntuu liian yksityiseltä niin sen voi jättää mainitsematta tai siihen voi viitata munakoisona.",
+15,Mistä olet ylpeä?,Avataan yhteys muihin,local_phone,conference,,,,,,,
+16,Mistä olet ylpeä?,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+17,Mistä olet ylpeä?,Ryhmäkeskustelu,contact_phone,assignment,together,90,,180,,,"H==== Jakakaa yksi kerrallaan omia ylpeydenaiheitanne.
+Jokaiselle on varattu noin kolme minuuttia aikaa. "
+18,Mikä oli ikävää?,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+19,Mikä oli ikävää?,Mikä oli ikävää -tehtävänanto,video_library,video,,45,,,video/miksitavat,"Nyt ollaan käyty läpi sitä että mikä oli mukavaa ja kaikilla on toivon mukaan hyvä olo, niin voidaan miettiä vähän ikävämpiä asioita. :-)
+
+Eli tässä seuraavassa harjoituksessa olisi tehtävänä miettiä, mikä oli edellisen vuoden aikana sellaista ikävää mitä haluaisi tänä vuonna vähemmän. Tässä on olennaista kohta ""mitä haluaisi vähemmän"", koska jotkut ikävät asiat meidän elämässä on sellaisia jotka me koetaan sen arvoisiksi.",
+20,Mikä oli ikävää?,Mikä oli ikävää?,assignment,assignment,,240,120,,,,"H==== Mitä sellaista ikävää tapahtui viime vuoden (12 kk) aikana, jota tahtoisit loppuvuonna ja ensi vuonna vähemmän?"
+21,Mikä oli ikävää?,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+22,Mikä oli ikävää?,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje3,"Seuraavaksi on tarkoitus ottaa yhteys muihin, ja sen jälkeen keskustella yhdessä siitä millaisia asioita tulitte kirjoittaneeksi ylös.
+
+Voitte tosiaan itse valita minkä verran jaatte, jos mikään tuntuu liian yksityiseltä niin sen voi jättää mainitsematta tai siihen voi viitata munakoisona.",
+23,Mikä oli ikävää?,Avataan yhteys muihin,local_phone,conference,,,,,,,
+24,Mikä oli ikävää?,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+25,Mikä oli ikävää?,Ryhmäkeskustelu,contact_phone,assignment,together,90,,180,,,"H==== Jakakaa yksi kerrallaan kokemianne ikäviä asioita.
+Jokaiselle on varattu noin kolme minuuttia aikaa."
+26,Milloin olit kaikkein eniten elossa?,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+27,Milloin olit kaikkein eniten elossa?,Milloin olit eniten elossa -tehtävänanto,video_library,video,,50,,,video/avaintavat,"Nyt tämä seuraava harjoite on tarkoituksella muotoiltu vähän epämääräisesti ja sellaiseksi että jokainen voi itse tulkita sen itselleen sopivalla tavalla. Kysymys on, mitkä olivat niitä hetkiä kun koit olevasi kaikkein eniten elossa? 
+
+Nämä voivat olla sellaisia hetkiä joiden koit tekevän elämän elämisen arvoiseksi, hetkiä kun olit kaikkein innostunein, tai kun koit voimakkaimmin sellaisia tunteita joita haluat kokea. Voitte kirjata ylös että mitä ne hetket olivat, mihin ne liittyivät ja keiden kanssa olitte silloin.",
+28,Milloin olit kaikkein eniten elossa?,Milloin olit eniten elossa?,assignment,assignment,,240,120,,,,"H==== Milloin olit kaikkein eniten elossa?
+Milloin olit kaikkein innostunein viime vuonna? 
+Milloin oli kaikkein hauskinta, milloin koit olevasi eniten elossa? 
+Mitä teit silloin ja kenen kanssa?"
+29,Milloin olit kaikkein eniten elossa?,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+30,Milloin olit kaikkein eniten elossa?,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje4,"Seuraavaksi on tarkoitus ottaa yhteys muihin, ja sen jälkeen keskustella yhdessä siitä millaisia asioita tulitte kirjoittaneeksi ylös.
+
+Voitte tosiaan itse valita minkä verran jaatte, jos mikään tuntuu liian yksityiseltä niin sen voi jättää mainitsematta tai siihen voi viitata munakoisona.",
+31,Milloin olit kaikkein eniten elossa?,Avataan yhteys muihin,local_phone,conference,,,,,,,
+32,Milloin olit kaikkein eniten elossa?,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+33,Milloin olit kaikkein eniten elossa?,Ryhmäkeskustelu,contact_phone,assignment,together,90,,180,,,"H==== Jakakaa yksi kerrallaan milloin koitte olevanne eniten elossa.
+Jokaiselle on varattu noin kolme minuuttia aikaa."
+34,Paras mahdollinen itsesi,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+35,Paras mahdollinen itsesi,Paras mahdollinen itsesi -tehtävänanto,video_library,video,,90,,,video/tapojenmuodostus,"Me ollaan nyt käyty läpi viime vuoden merkityksellisiä hetkiä kolmesta eri näkökulmasta. Me ollaan mietitty sitä mitä me ollaan tehty ja mistä me ollaan ylpeitä, sitä mikä oli ikävää ja mitä haluttaisiin vähemmän, ja sitä milloin oltiin kaikkein eniten elossa. 
+
+Nyt olisi vuorossa ikään kuin yhteenvetoharjoite, jossa voi näiden pohjalta miettiä että millainen teidän oma paras mahdollinen elämänne olisi.
+
+Eli jos kuvittelette millainen teidän paras mahdollinen tulevaisuutenne esimerkiksi viiden vuoden päästä voisi olla. Millaisia te olisitte, mitä te osaisitte ja miten te käyttäytyisitte? Miten teidän ura, ihmissuhteet, harrastukset ja terveys? Millaisia tunteita ja kokemuksia teidän päivässä olisi, millainen teidän tyypillinen päivä olisi? Mitä konkreettisempaa saatte, sen parempi.
+
+Tämän ei tietenkään tarvitse olla mikään lopullinen visio, vaan pelkästään teidän tämänhetkinen käsitys asiasta. Te voitte käyttää sitä sellaisena suuntana jota kohti te voitte lähteä. Ja sitten kun kohtaatte matkalla haasteita ja mahdollisuuksia ja opitte enemmän itsestänne, niin voitte muuttaa sitä suunnitelmaa ja hioa sitä tarkemmaksi.",
+36,Paras mahdollinen itsesi,Paras mahdollinen itsesi ,assignment,assignment,,420,120,,,,"H==== Mikä olisi paras mahdollinen itsesi?
+Kuvittele mikä olisi paras mahdollinen tulevaisuutesi. 
+Millainen olisit itse, mitä osaisit ja miten käyttäytyisit? 
+Miten olisi urasi, ihmissuhteidesi, harrastustesi, ja terveytesi laita? 
+Millaisia tunteita ja kokemuksia päivässäsi olisi? Millainen tyypillinen päiväsi olisi? 
+Mitä konkreettisempi sen parempi. Kirjoita lyhyitä muistiinpanoja koskien eri elämänalueita."
+37,Paras mahdollinen itsesi,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+38,Paras mahdollinen itsesi,Ohjeita ryhmäkeskusteluun,video_library,video,,19,,,video/ryhmaohje5,"Seuraavaksi on tarkoitus ottaa yhteys muihin, ja sen jälkeen keskustella yhdessä siitä millaisia asioita tulitte kirjoittaneeksi ylös.
+
+Voitte tosiaan itse valita minkä verran jaatte, jos mikään tuntuu liian yksityiseltä niin sen voi jättää mainitsematta tai siihen voi viitata munakoisona.",
+39,Paras mahdollinen itsesi,Avataan yhteys muihin,local_phone,conference,,,,,,,
+40,Paras mahdollinen itsesi,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+41,Paras mahdollinen itsesi,Ryhmäkeskustelu,contact_phone,assignment,together,90,,300,,,"H==== Jakakaa yksi kerrallaan millainen paras mahdollinen itsenne olisi.
+Jokaiselle on varattu noin viisi minuuttia aikaa."
+42,Yhteenveto ja seuraavat askeleet,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+43,Yhteenveto ja seuraavat askeleet,Yhteenveto ja seuraavat askeleet,video_library,video,,40,,,video/yhteenveto,"Noin, nyt teillä on toivon mukaan tiedossa että millainen teidän paras mahdollinen elämä olisi. :-) Jos haluatte vielä miettiä siten että miten konkreettisesti edetä sitä kohti, niin tämän työpajan kakkososio keskittyy juuri siihen.
+
+Kiitoksia osallistumisesta, toivottavasti tästä oli teille hyötyä, ja toivottavasti teillä on viimeistään viiden vuoden päästä teidän paras mahdollinen elämä.",
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,48,10,59.5,,,
+,,,,,,,117.5,1.958333333,,,

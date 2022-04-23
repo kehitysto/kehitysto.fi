@@ -6,7 +6,7 @@ import remarkParse from 'remark-parse'
 import remarkRehype from 'remark-rehype'
 import rehypeStringify from 'rehype-stringify'
 
-import BasicLayout from '../layouts/basic'
+import BasicLayout from '../layouts/site-simple-page'
 
 const pagesDir = path.join(process.cwd(), 'pages');
 

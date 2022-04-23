@@ -1,6 +1,6 @@
 /** @type {import('next').NextConfig} */
 
-const basePath = '';
+let basePath = '';
 
 const nextConfig = {
   reactStrictMode: true,

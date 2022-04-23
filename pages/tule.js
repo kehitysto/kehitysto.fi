@@ -1,4 +1,4 @@
-import BasicLayout from '../layouts/basic';
+import BasicLayout from '../layouts/site-simple-page';
 import Link from 'next/link';
 
 const title = 'Tule mukaan!';

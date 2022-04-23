@@ -1,0 +1,116 @@
+id,section,step,icon,step_type,step_modifier,duration,bonus_duration,per_participant_duration,video_url_base,video_text,guide_text
+2,Alustus ja toiveet,Yhteinen aloitus,hourglass_empty,waitall,first,,,,,,
+3,Alustus ja toiveet,Tervetuloa työpajaan!,video_library,video,,426,,,video/alustus,,
+4,Alustus ja toiveet,Esittäytymistehtävä,assignment,assignment,,300,120,,,,"H==== Kirjaa itsellesi ylös seuraavat asiat:
+Mitä toivot saavasi irti tästä työpajasta? Mikä saa sinut yleensä hyvälle tuulelle?"
+5,Alustus ja toiveet,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+6,Alustus ja toiveet,Ohjeita ryhmäkeskusteluun,video_library,video,,75,,,video/ryhmaohje1,,
+7,Alustus ja toiveet,Avataan yhteys muihin,local_phone,conference,,,,,,,
+8,Alustus ja toiveet,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+9,Alustus ja toiveet,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Jakakaa yksi kerrallaan esittäytymistehtävän vastaukset.
+Jokaiselle on varattu noin kolme minuuttia aikaa. Muistutukseksi kysymykset olivat nämä:
+Mitä toivot saavasi irti tästä työpajasta? Mikä saa sinut yleensä hyvälle tuulelle?"
+10,Mitä tavat ovat?,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+11,Mitä tavat ovat?,Mitä tavat ovat?,video_library,video,,341,,,video/mitatavaton,,
+12,Mitä tavat ovat?,Millaisia tapoja sinulla on?,assignment,assignment,,360,120,,,,"H==== Listaa merkittävimpiä omia tapojasi:
+Mitä teet ja millaisessa tilanteessa? Mikä on laukaiseva tekijä?
+Tyypillisimmin tavan laukaisee esimerkiksi paikka, aika, tunnetila, muut ihmiset tai edellinen teko."
+13,Mitä tavat ovat?,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+14,Mitä tavat ovat?,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje2,,
+15,Mitä tavat ovat?,Avataan yhteys muihin,local_phone,conference,,,,,,,
+16,Mitä tavat ovat?,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+17,Mitä tavat ovat?,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Jakakaa yksi kerrallaan omia nykyisiä tapojanne.
+Jokaiselle on varattu noin kolme minuuttia aikaa. Muistutukseksi kysymykset olivat nämä:
+Mitä teet ja millaisessa tilanteessa? Mikä on laukaiseva tekijä?"
+18,Miksi tavoilla on väliä?,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+19,Miksi tavoilla on väliä?,Miksi tavoilla on väliä?,video_library,video,,341,,,video/miksitavat,,
+20,Miksi tavoilla on väliä?,Parhaan mahdollisen itsesi tavat,assignment,assignment,,360,120,,,,"H==== Kuvittele mikä olisi paras mahdollinen itsesi ja tulevaisuutesi.
+Millaisia tapoja olisit muodostanut päästäksesi tähän tulevaisuuteen? Mistä huonoista tavoista olisit päässyt eroon?
+Minkälainen olisi tyypillinen päiväsi? Mitkä asiat elämässäsi olisit saanut pysyvästi kuntoon ja hoituisivat sujuvasti kuin itsestään? Mitä tapoja liittyisi uraasi, ihmissuhteisiisi, harrastuksiisi, tai terveyteesi? 
+Mitä konkreettisempi, sen parempi. Kirjoita lyhyitä muistiinpanoja koskien eri elämänalueita."
+21,Miksi tavoilla on väliä?,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+22,Miksi tavoilla on väliä?,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje3,,
+23,Miksi tavoilla on väliä?,Avataan yhteys muihin,local_phone,conference,,,,,,,
+24,Miksi tavoilla on väliä?,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+25,Miksi tavoilla on väliä?,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Jakakaa yksi kerrallaan parhaan mahdollisen itsesi tapoja.
+Jokaiselle on varattu noin kolme minuuttia aikaa."
+26,Avaintavat,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+27,Avaintavat,Mitä on avaintavat?,video_library,video,,341,,,video/avaintavat,,
+28,Avaintavat,Parhaan mahdollisen itsesi avaintavat,assignment,assignment,,300,120,,,,"H==== Miten pääsisit parhaaseen mahdolliseen tulevaisuuteesi? Mikä olisi se tapapyramidi, jota pitkin kiipeäisit sinne?
+Mitkä olisivat parhaan mahdollisen itsesi avaintapoja? Miten ne muodostaisivat tapapyramidin?
+Mitkä olisivat kaikista pohjimmaisia ja perustavia tapoja, joita ilman pyramidi romahtaisi?
+Voit esim. kirjoittaa eri tapoja ylös ja merkitä, mitä hyötyjä niistä olisi, ja miten uusia tapoja niiden varaan voisi rakentaa.
+"
+29,Avaintavat,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+30,Avaintavat,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje4,,
+31,Avaintavat,Avataan yhteys muihin,local_phone,conference,,,,,,,
+32,Avaintavat,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+33,Avaintavat,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Jakakaa yksi kerrallaan millaiset avaintavat olisivat sinulle keskeisiä.
+Jokaiselle on varattu noin kolme minuuttia aikaa."
+34,Tapojen muodostaminen,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+35,Tapojen muodostaminen,Yleistä tapojen muodostamisesta,video_library,video,,580,,,video/tapojenmuodostus,,
+36,Tapojen muodostaminen,Millaisen tapamuutoksen haluan aloittaa tänään?,assignment,assignment,,300,120,,,,"H==== Mieti edellisten pohdintojen inspiroimana minkä tavan muodostamiseen haluat tänään keskittyä.
+Pyri valitsemaan asia, jota pidät todella tärkeänä itsellesi nyt ja tulevaisuudessa. Tavoitteiden ja tapojen muodostamisessa tutkitusti ehkä ratkaisevinta on pyrkiä kohti tavoitteita, jotka todella tuntuvat tärkeimmiltä. Tapa voi olla esimerkiksi jokin parhaan mahdollisen itsesi tapapyramidin perustavimmista tavoista, jonka varaan voit rakentaa lisää muita tapoja.
+Valitse mielellään muodostettavaksi tavaksi jokin yksittäinen pieni mutta tärkeä asia. Kun tapojen muodostamisen taidossa tulee paremmaksi, voi lisätä myöhemmin kunnianhimoa, mutta aluksi on usein hyvä saada onnistumisen kokemus jossain pienessä asiassa. Pienenkään tavan muodostuminen ei ole todellakaan aina itsestäänselvyys."
+37,Tapojen muodostaminen,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+38,Tapojen muodostaminen,Ohjeita ryhmäkeskusteluun,video_library,video,,19,,,video/ryhmaohje5,,
+39,Tapojen muodostaminen,Avataan yhteys muihin,local_phone,conference,,,,,,,
+40,Tapojen muodostaminen,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+41,Tapojen muodostaminen,Ryhmäkeskustelu,contact_phone,assignment,together,120,,60,,,"H==== Jakakaa yksi kerrallaan mihin yhteen tapaan aiotte tänään keskittyä.
+Jokaiselle on varattu noin minuutti aikaa."
+42,Tavanmuodostuksen strategiat,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+43,Tavanmuodostuksen strategiat,Toisto ja seuranta,video_library,video,,184,,,video/toisto,,
+44,Tavanmuodostuksen strategiat,Miten seuraat tapasi muodostumista?,assignment,assignment,,240,120,,,,"H==== Mieti miten voisit seurata tapasi edistymistä.
+Voisitko aloittaa tapapäiväkirjan esimerkiksi kännykkäsovellukseen (esim. Habitbull, beminder, habitshare, Daylio) tai seinäkalenteriin?
+Voisitko hankkia tapa-kaverin jonka kanssa tapaatte säännöllisesti ja seuraatte tapojenne edistymistä?
+Haluaisitko osallistua esimerkiksi muuhun tapaa tukevaan sosiaaliseen toimintaan, esimerkiksi Kehitystössä?"
+45,Tavanmuodostuksen strategiat,Innostavuus,video_library,video,,228,,,video/innostavuus,,
+46,Tavanmuodostuksen strategiat,Miten teet tavastasi innostavan?,assignment,assignment,,240,120,,,,"H==== Miten tekisin itse toiminnasta mahdollisimman innostavan?
+Voisitko esimerkiksi tehdä toimintaa hyvässä kaveriporukassa tai liittää ystävien tapaamista/puhelua tavan yhteyteen? 
+Voisitko esimerkiksi valita eri urheilulajeista sen lajin, jonka aloittaminen tuntuu kaikista mukavimmalta? 
+Mikä olisi miellyttävin sijainti alkaa tekemään uutta tapaa? Mihin aikaan päivästä innostut yleensä helpoiten?"
+47,Tavanmuodostuksen strategiat,Ympäristön uudelleensuunnittelu,video_library,video,,178,,,video/ympuudsuun,,
+48,Tavanmuodostuksen strategiat,Miten voisit muuttaa ympäristöäsi?,assignment,assignment,,240,120,,,,"H==== Voisitko muuttaa ympäristöäsi, kotiasi, työhuonettasi tapojen tukemiseksi?
+Miten teet tilassa uuden tavan tekemisestä mahdollisimman helppoa? Tai miten teet uutta tapaa haittaavista tavoista mahdollisimman hankalaa? Voitko hyödyntää esimerkiksi 30 sekunnin sääntöä?
+Entä voisitko muokata sosiaalista ympäristöäsi niin, että saisit kannustusta ja tukea tavassa etenemiseen?"
+49,Tavanmuodostuksen strategiat,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+50,Tavanmuodostuksen strategiat,Ohjeita ryhmäkeskusteluun,video_library,video,,48,,,video/ryhmaohje6,,
+51,Tavanmuodostuksen strategiat,Avataan yhteys muihin,local_phone,conference,,,,,,,
+52,Tavanmuodostuksen strategiat,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+53,Tavanmuodostuksen strategiat,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Jakakaa yksi kerrallaan mitkä strategiat tuntuivat itsellesi lupaavimmilta ja miksi?
+Jokaiselle on varattu noin kolme minuuttia aikaa."
+54,Toteutusaikomukset,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+55,Toteutusaikomukset,Toteutusaikomukset,video_library,video,,298,,,video/toteutusaikomus,,
+56,Toteutusaikomukset,Miten seuraat tapasi muodostumista?,assignment,assignment,,300,120,,,,"H==== Määritä tavallesi toteutusaikomus.
+Määritä tarkasti mikä asia muistuttaa sinua toteuttamaan tapaasi ja milloin pyrit sen tekemään. Usein tapojen muodostuksessa hyvä toteutusaikomus voi linkittyä jo olemassaolevaan tapaan/vihjeeseen (tai huonon tavan laukaisevaan vihjeeseen). Esimerkiksi hammaslangan käytön aloittamiseen on tutkimuksissa toiminut parhaiten se, kun ihmiset ovat hampaidenpesurutiinin jälkeen jatkaneet langan käytöllä.
+Hyvä toteutusaikomus täyttää tutkijoiden mukaan kolme vaatimusta:
+1) Ehto on selkeä. Aikomuksen ”kun”-osa on jokin konkreettinen, näkyvä asia joka on helppo huomata ja toteutuu selkeänä hetkenä. ”Kun näen portaat” on hyvä, ”ennen kello neljää” on huono (milloin ennen kello neljää tarkkaan ottaen?). 
+2) Ehto on johdonmukainen. Aikomuksen ”niin”-osa on jotain, minkä haluaa aina tehdä ”kun”-osan täyttyessä. Esimerkiksi ”kun lähden olohuoneesta, teen viisi punnerrusta” on ongelmallinen, koska aina ei välttämättä ole aikaa tehdä punnerruksia.
+3) Aikomus palvelee tavoitteitasi. Kannattaa tarkistaa, että toteutusaikomus oikeasti edistää jotain mitä haluaa saada aikaan."
+57,Toteutusaikomukset,Edetään yhdessä,hourglass_empty,waitall,,,,,,,
+58,Toteutusaikomukset,Ohjeita ryhmäkeskusteluun,video_library,video,,72,,,video/ryhmaohje7,,
+59,Toteutusaikomukset,Avataan yhteys muihin,local_phone,conference,,,,,,,
+60,Toteutusaikomukset,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+61,Toteutusaikomukset,Ryhmäkeskustelu,contact_phone,assignment,together,120,,300,,,"H==== Käykää ryhmässä läpi muodostamanne toteutusaikomukset yksi henkilö kerrallaan
+Olivatko toteutusaikomukset alla olevien vaatimusten mukaisia? Yrittäkää vielä yhdessä muokata niitä siihen muotoon että nämä kolme ehtoa toteutuisivat niissä mahdollisimman hyvin.
+Hyvä toteutusaikomus täyttää tutkijoiden mukaan kolme vaatimusta:
+1) Ehto on selkeä. Aikomuksen ”kun”-osa on jokin konkreettinen, näkyvä asia joka on helppo huomata ja toteutuu selkeänä hetkenä. ”Kun näen portaat” on hyvä, ”ennen kello neljää” on huono (milloin ennen kello neljää tarkkaan ottaen?). 
+2) Ehto on johdonmukainen. Aikomuksen ”niin”-osa on jotain, minkä haluaa aina tehdä ”kun”-osan täyttyessä. Esimerkiksi ”kun lähden olohuoneesta, teen viisi punnerrusta” on ongelmallinen, koska aina ei välttämättä ole aikaa tehdä punnerruksia.
+3) Aikomus palvelee tavoitteitasi. Kannattaa tarkistaa, että toteutusaikomus oikeasti edistää jotain mitä haluaa saada aikaan."
+62,Yhteenveto ja seuraavat askeleet,Yhteinen aloitus,hourglass_empty,waitall,,,,,,,
+63,Yhteenveto ja seuraavat askeleet,Yhteenveto ja seuraavat askeleet,video_library,video,,301,,,video/yhteenveto,"Nyt kun teillä on suunnitelma eteenpäin menemiseksi, niin onkin hyvä hetki vetää tää työpaja yhteen. Ensiksi me kartoitettiin vähän odotuksia ja hahmoteltiin millaisia tapoja meillä jo on. Sitten mietittiin vähän millaisia tapoja meillä parhaassa tapauksessa olisi, tutustuttiin avaintapojen käsitteeseen ja valitiin yksi tapa työstettäväksi. Tätä tapaa katseltiin sit seurattavuuden, innostavuuden ja ympäristön tukielementtien näkökulmasta, ja muodostettiin vielä sitä tukeva toiminta-aikomus. Ja samalla kun näitä asioita käytiin yhdessä läpi muiden kanssa, jäi toivottavasti käteen uusia perspektiivejä myös tulevaisuuden tavanmuodostusta varten.
+
+Mä toivon että tää työpaja on ollu sulle hyödyllinen, ja jos jäit miettimään että tällaisista asioista vois olla laajemminkin hyötyä sun elämässä niin suosittelen lämpimästi tutustumaan muuhunkin Kehitystön toimintaan! Meidän verkkosivuilta löytyy jonkun verran tietoa niin ajankohtaisista asioista kuin myös pitkin historiaa Kehitystössä käytetyistä materiaateista, mutta Facebookissa oleva Kehitystön Yhteisö -niminen ryhmä on ehkä se keskeisin väylä seuraa mitä tapahtuu ja saada yhteys muihin ihmisiin!
+
+Niin kuin alussa jo vähän avattiinkin, Kehitystö on vapaaehtoisten pyörittämä, ja vapaasti organisoituva yhteisö niille, jotka haluaa yhdessä muiden kanssa pohtia oman elämänsä keskeisiä asioita tieteelliseen tietoon nojautuen. Se tarkottaa, että myös sä olet työpajoihin osallistumisen lisäksi tervetullut esimerkiksi osallistumaan näiden verkkotyöpajojen kehittämiseen, tai vaikka organisoimaan lukupiirin sua kiinnostavan kirjan ympärille!
+
+Mutta palataan vielä hetkeksi tähän työpajaan, ja viimeistellään se ryhmäkeskustelulla. Tällä kertaa ajatuksena olisi pohtia nopeasti tuntuiko työpaja oikeasti hyödylliseltä, ja uskotko sä että muodostetut suunnitelmat tulee toimimaan? Jos asia epäilyttää, niin voisiko asialle tehdä jotain, esimerkiksi pyytää jotakuta muuta avuksi matkalle? Ja ihan lopuksi on vielä mukava kiinnittää huomio siihen mistä on kiitollinen muulle ryhmälle.
+
+Niin ja jos mieleen tulee palautetta tai parannusehdotuksia tähän verkkotyöpajaan, niin ne on aina tervetulleita! Mutta ei sitten muuta kun vaan siihen viimeiseen ryhmäkeskusteluun, ja suuresti kiitoksia työpajaan osallistumisesta! Toivottavasti tavataan vielä jossain Kehitystön jutuissa! Moikka!",
+64,Yhteenveto ja seuraavat askeleet,Avataan yhteys muihin,local_phone,conference,,,,,,,
+65,Yhteenveto ja seuraavat askeleet,Odotetaan kaikkia,hourglass_empty,waitall,,,,,,,
+66,Yhteenveto ja seuraavat askeleet,Ryhmäkeskustelu,contact_phone,assignment,together,120,,180,,,"H==== Käykää yksi kerrallaan läpi tuntemuksianne työpajasta:
+Tuntuiko työpaja hyödylliseltä?
+Uskotko noudattavasi tehtyjä suunnitelmia? Jos epäilet asiaa, mikä olisi voinut mennä pieleen? Voisiko siihen varautua tavalla joka ehkäisisi pieleen menemistä?
+Haluatko antaa palautetta jostain muille ryhmäläisille tai kiittää heitä jostain erityisestä?
+Suuri kiitos verkkotyöpajaan osallistumisesta! Otamme mielellämme vastaan palautetta työpajasta osoitteeseen kehitysto@gmail.com tai avoimesti Kehitystön Yhteisö -ryhmässä Facebookissa!"
